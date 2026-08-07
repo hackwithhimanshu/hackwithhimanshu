@@ -1,92 +1,185 @@
-<!-- Header -->
 <p align="center">
   <img src="https://media.tenor.com/G4GdvEotPhoAAAAj/web-hack-hacker.gif" width="10%" />
 </p>
 
-<h1 align="center">Hi, I'm Himanshu 👋</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Kumbhaj</h1>
 
-<h3 align="center">Offensive Security | Reconnaissance | Web Application Pentesting</h3>
+<h3 align="center">
+Python Full Stack Developer • Python Backend Developer • VAPT Enthusiast
+</h3>
 
-<h4 align="center">🔴 Actively building offensive security tooling & documenting real lab workflows</h4>
-
----
-
-## 🔍 About Me
-Focused on offensive security, web application penetration testing, and vulnerability assessment.  
-Hands-on experience developing Python-based offensive tools and performing structured testing workflows across reconnaissance, exploitation, and validation phases.  
-This repository reflects practical labs, custom security tooling, and continuous offensive security practice built within controlled environments.
-
-
-💡 *Fun fact: I break things first so I can understand them better.*
-
----
-
-## 🧰 Skills & Tools
-
-<p>
-
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-1D3557?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sqlmap-800000?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSFConsole-6A0DAD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nessus-1A1A1A?style=for-the-badge&logo=tenable&logoColor=00AEEF"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
+<p align="center">
+I enjoy building scalable web applications with Python while also exploring web application security and offensive security automation.
 </p>
 
 ---
 
-## ⚙️ Core Focus
-- Web Application Penetration Testing
-- Vulnerability Assessment (OWASP Top 10)
-- Offensive Security Automation with Python
-- Reconnaissance & Enumeration
-  
+## 👨‍💻 About Me
+
+I'm a **Python Full Stack Developer** with a strong interest in designing secure, scalable, and maintainable web applications.
+
+My primary focus is developing backend systems using **Python, Django, Django REST Framework, Flask, SQL, and REST APIs**, while building responsive frontends with modern web technologies.
+
+Alongside web development, I actively practice **Web Application Penetration Testing (WAPT)** and develop Python-based security automation tools to better understand how applications can be secured.
+
+I believe that understanding both **how software is built** and **how it is attacked** leads to writing better, more secure applications.
+
 ---
 
-## 🚧 Projects
-- ARP Spoofer & Detection Tool (Python)
+## 🚀 What I'm Working On
+
+- 🌐 Building Full Stack Django Applications
+- ⚙️ Designing REST APIs and Backend Systems
+- 🐍 Writing Clean & Reusable Python Code
+- 🔒 Practicing Web Application Penetration Testing
+- 🛡️ Learning Secure Software Development
+- ☁️ Deploying Applications on Linux & AWS EC2
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+- Python
+- JavaScript
+- SQL
+- C / C++
+
+### Backend
+
+- Django
+- Django REST Framework
+- Flask
+- FastAPI
+
+### Frontend
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- SQLite
+
+### Dev Tools
+
+- Git
+- GitHub
+- Docker
+- Linux
+- AWS EC2
+- Postman
+
+### Security
+
+- Burp Suite
+- OWASP Top 10
+- OWASP WSTG
+- Nmap
+- Wireshark
+- Scapy
+- OWASP ZAP
+- sqlmap
+- Nessus
+- Metasploit
+
+---
+
+# 📂 Featured Projects
+
+### 🌐 Full Stack Development
+
+- ✅ Django Social Media Platform
+- ✅ Django To-Do Application
+- ✅ REST API Development
+- ✅ Authentication & Authorization Systems
+- ✅ Role Based Access Control (RBAC)
+- ✅ CRUD Applications
+- ✅ Deployment on AWS EC2
+
+### 🔒 Cyber Security & VAPT
+
+- Integrated Web Reconnaissance & Exploitation Engine
+- Web Application Penetration Testing Labs
+- Python Offensive Security Toolkit
+- Network Automation Scripts
 - Subdomain Enumeration Tool
-- Python Keylogger (Lab Simulation)
-- Reverse Shell Framework (Educational)
-- Python Brute Force Automation Script (Lab Use)
-- Educational Reverse Backdoor (Controlled Environment)
-
-All projects are developed strictly for **educational purposes** and tested within authorized lab environments.
+- ARP Spoofer & Detection Tool
+- Packet Analysis Utilities
 
 ---
 
-## 🧪 Experience
-- Built and tested Python-based offensive security tools within lab environments
-- Performed reconnaissance and vulnerability testing against intentionally vulnerable platforms
-- Practiced traffic analysis, packet inspection, and log monitoring workflows
-- Developed Linux-based automation scripts to support security testing processes
+## 🧠 Core Skills
+
+### Web Development
+
+- Full Stack Web Development
+- Python Backend Development
+- REST API Development
+- Authentication & Authorization
+- Database Design
+- ORM
+- API Integration
+- MVC / MVT Architecture
+- Responsive UI Development
+
+### Cyber Security
+
+- Web Application Penetration Testing
+- Vulnerability Assessment
+- Security Automation
+- Reconnaissance
+- OWASP Top 10
+- Secure Coding
+- Python Security Scripting
 
 ---
 
-## 📈 Current Direction
-Advancing toward offensive security roles focused on web application penetration testing, vulnerability assessment, and security automation.
+## 📚 Currently Learning
+
+- Advanced Django
+- Django REST Framework
+- FastAPI
+- System Design
+- Docker
+- CI/CD
+- Secure Backend Architecture
+- Advanced Web Application Security
 
 ---
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/himanshu-kumbhaj-41b274295/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.youtube.com/@HimanshuKumbhaj">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
-  </a>
-  <a href="https://tryhackme.com/p/himanshukumbhaj3">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
-</p>
+## 🎯 Career Goal
+
+To become a highly skilled **Python Full Stack Developer** specializing in scalable backend systems, while leveraging my knowledge of **Web Application Security and VAPT** to build applications that are secure by design.
 
 ---
 
-### ⚡ Closing Note
-> Documenting the process, not just the results — because understanding the attack path matters more than the exploit itself.
+## 🌍 Connect With Me
+
+📧 Email: himanshukumbhaj0@gmail.com
+
+🌐 Portfolio: https://hackwithhimanshu.github.io/Full-Stack-Developer-Portfolio/
+
+💼 LinkedIn: https://www.linkedin.com/in/himanshu-kumbhaj-41b274295/
+
+🐙 GitHub: https://github.com/hackwithhimanshu
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy building applications, breaking them in controlled environments, and then rebuilding them more securely.
+
+---
+
+## 📈 GitHub Philosophy
+
+> Code should not only work—it should be clean, maintainable, scalable, and secure.
+
+⭐ Thanks for visiting my profile!
